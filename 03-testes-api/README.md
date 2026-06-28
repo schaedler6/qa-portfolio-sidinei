@@ -1,13 +1,41 @@
-# Testes de API
+# Testes de API — JSONPlaceholder
 
 ## Objetivo
 
-Demonstrar validação de APIs REST usando status codes, JSON, autenticação e respostas de erro.
+Demonstrar conhecimentos iniciais de QA em APIs REST, incluindo validação de métodos HTTP, status codes, estrutura JSON, campos obrigatórios e respostas de erro.
 
-## Conteúdo planejado
+## API utilizada
 
-- Coleção Postman.
-- Testes de GET, POST, PUT e DELETE.
-- Validação de campos obrigatórios.
-- Validação de status codes.
-- Relatório de execução.
+API pública de demonstração:
+
+https://jsonplaceholder.typicode.com
+
+## Escopo dos testes
+
+- GET
+- POST
+- PUT
+- DELETE
+- Status codes
+- Estrutura JSON
+- Campos esperados
+- Validação de resposta
+- Cenários positivos e negativos
+
+## Artefatos deste projeto
+
+- `plano-de-teste-api.md`
+- `casos-de-teste-api.md`
+- `relatorio-execucao-api.md`
+- `postman/collection-jsonplaceholder.postman_collection.json`
+- `postman/environment-jsonplaceholder.postman_environment.json`
+
+## Competências demonstradas
+
+- Testes de API
+- REST
+- JSON
+- Status codes
+- Postman
+- Validação de contrato básico
+- Documentação técnica de QA
