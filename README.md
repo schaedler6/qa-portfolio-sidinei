@@ -1,30 +1,42 @@
 # QA Portfolio — Sidinei Schaedler
 
-Portfólio de estudos e práticas em **Quality Assurance (QA)**, testes de software, automação e cibersegurança defensiva.
+Portfólio de estudos e práticas em **Quality Assurance**, testes de software, automação e segurança defensiva.
 
-## Linha profissional
+## Posicionamento profissional
 
-**ADS Feevale • QA • Testes de Software • Automação • Cibersegurança Defensiva**
+**QA Júnior em formação | Testes Manuais e de API | Automação com Python e PowerShell | ADS Feevale**
 
 ## Objetivo
 
-Este repositório reúne exemplos práticos de testes manuais, documentação de bugs, testes de API, automação para QA, Visual QA e validações de segurança defensiva.
+Este repositório reúne projetos acadêmicos, autorais e de estudo voltados à prática de qualidade de software. O conteúdo foi organizado para demonstrar raciocínio de teste, documentação, evidências e capacidade de análise.
 
-## Estrutura
+## Estrutura do portfólio
 
-- `01-testes-manuais` — casos de teste, checklists, regressão e evidências.
-- `02-bug-reports` — documentação profissional de defeitos.
-- `03-testes-api` — validação de endpoints, status codes, JSON e autenticação.
-- `04-automacao-qa` — scripts em Python e PowerShell para apoio a testes.
-- `05-visual-qa` — responsividade, usabilidade, interface e padronização visual.
-- `06-qa-seguranca-defensiva` — autenticação, permissões, logs e boas práticas defensivas.
+- [`01-testes-manuais`](./01-testes-manuais) — cenários, casos de teste, checklists, regressão e evidências.
+- [`02-bug-reports`](./02-bug-reports) — documentação de defeitos com ambiente, reprodução, resultado esperado, resultado obtido e severidade.
+- [`03-testes-api`](./03-testes-api) — validação de endpoints, status codes, JSON, autenticação e tratamento de erros.
+- [`04-automacao-qa`](./04-automacao-qa) — scripts em Python e PowerShell para apoio à execução, organização e validação de testes.
+- [`05-visual-qa`](./05-visual-qa) — responsividade, usabilidade, acessibilidade, interface e padronização visual.
+- [`06-qa-seguranca-defensiva`](./06-qa-seguranca-defensiva) — HTTPS, autenticação, permissões, logs, exposição de dados e boas práticas defensivas.
 
-## Perfil
+## Competências demonstradas
 
-Estudante de Análise e Desenvolvimento de Sistemas na Universidade Feevale, direcionando a carreira para QA, testes de software, automação, APIs, suporte técnico e cibersegurança defensiva.
+- Planejamento e execução de testes manuais
+- Elaboração de cenários e casos de teste
+- Registro de bugs com evidências
+- Testes funcionais e de regressão
+- Testes de API e validação de respostas
+- Automação de rotinas de apoio ao QA
+- Visual QA e acessibilidade
+- Organização de documentação técnica com Git e GitHub
+
+## Sobre mim
+
+Sou estudante de **Análise e Desenvolvimento de Sistemas na Universidade Feevale** e estou direcionando minha carreira para Quality Assurance. Busco oportunidade como **QA Júnior**, estágio em tecnologia ou suporte técnico com foco em qualidade.
 
 ## Links
 
-- Site: https://sid.dev.br
-- GitHub: https://github.com/schaedler6
+- Portfólio: https://sid.dev.br
+- Perfil GitHub: https://github.com/schaedler6
 - LinkedIn: https://www.linkedin.com/in/sidschaedler/
+- E-mail: schaedler6@msn.com
